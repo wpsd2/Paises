@@ -1,0 +1,11 @@
+melhorias
+__pycache__
+__pycache__/
+*.*~
+*.pyc
+.idea/
+.idea
+credencias.py
+copia_programa_final
+venv/
+venv
